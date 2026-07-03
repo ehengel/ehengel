@@ -1,33 +1,33 @@
 <p align="center">
-  <img src="github-header.png" alt="Henrik Gelius — Data · Search · Observability" width="100%" />
+  <img src="github-header.png" alt="Henrik Gelius — Algo trading · Backtesting · Home-lab tinkering" width="100%" />
 </p>
 
 ### Hi, I'm Henrik 👋
 
-This is my corner of GitHub — where I tinker with **search, data and observability**,
-mostly around the **Elastic Stack**. Expect experiments, learning projects, and the
-occasional thing that turns out useful.
+This is my corner of GitHub — where I chase signals in the noise. Mostly
+**algorithmic trading**, **backtesting** and whatever **home-lab** experiment
+I've talked myself into this week, almost all of it in **Python**.
 
-I've spent a good while in the Elastic world, so a lot of what I poke at here lives
-somewhere between Elasticsearch, Kibana, logs and data pipelines.
+Elastic Stack pays the bills by day; market data and side projects keep me
+busy by night.
 
 ---
 
 #### 🛠 Mostly playing with
 
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
-![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1793D1?style=flat-square&logo=linux&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-#### 🔎 Curious about
+#### 🔎 Tinkering with
 
-- **Search** — relevance, querying, making data findable
-- **Security** — log management, detection, keeping an eye on things
-- **Observability** — logs, metrics & tracing
-- **Data pipelines** — ingesting and shaping messy data into something usable
+- **Systematic trading** — turning ideas into rules a machine can follow
+- **Backtesting & research** — testing strategies before risking anything real
+- **Market data** — wrangling OHLCV into something a model can learn from
+- **Home lab** — automating and breaking things for the fun of it
 
 ---
 
-<sub>📍 Sweden · 🌊 weekends out in the archipelago ⛵</sub>
+<sub>📍 Sweden · 🌊 weekends out in the archipelago ⛵ · ⚠️ nothing here is financial advice</sub>
