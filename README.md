@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.png" alt="Henrik Gelius — Data · Search · Observability" width="100%" />
+  <img src="github-header.png" alt="Henrik Gelius — Data · Search · Observability" width="100%" />
 </p>
 
 ### Hi, I'm Henrik 👋
