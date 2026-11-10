@@ -2,8 +2,6 @@
   <img src="github-header.png" alt="Henrik Gelius — Algo trading · Backtesting · Home-lab tinkering" width="100%" />
 </p>
 
-### Hi, I'm Henrik 👋
-
 This is my corner of GitHub — where I chase signals in the noise. Mostly
 **algorithmic trading**, **backtesting** and whatever **home-lab** experiment
 I've talked myself into this week, almost all of it in **Python**.
